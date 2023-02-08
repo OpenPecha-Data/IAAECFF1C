@@ -1,0 +1,16 @@
+id: IAAECFF1C
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:14:44.256894
+last_modified: 2023-02-08 15:14:44.257169
+source_metadata:
+  title: Nirvikalpapraveśadhāraṇī
+  language: sa
+bases:
+  '8804':
+    base_file: 8804.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

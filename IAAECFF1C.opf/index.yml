@@ -1,0 +1,79 @@
+id: 35b94344747d4fbfb6b2512b760af720
+annotation_type: index
+revision: '00001'
+annotations:
+  57b9ce6cd47541e6a6e4bc6f234003b7:
+    base: 8804.txt
+    Chapters:
+    - title: §1
+      span:
+        start: 0
+        end: 626
+    - title: §2
+      span:
+        start: 627
+        end: 1059
+    - title: §3
+      span:
+        start: 1060
+        end: 1670
+    - title: §4
+      span:
+        start: 1671
+        end: 2273
+    - title: §5
+      span:
+        start: 2274
+        end: 2767
+    - title: §6
+      span:
+        start: 2768
+        end: 3207
+    - title: §7
+      span:
+        start: 3208
+        end: 3865
+    - title: §8
+      span:
+        start: 3866
+        end: 4254
+    - title: §9
+      span:
+        start: 4255
+        end: 4683
+    - title: §10
+      span:
+        start: 4684
+        end: 5344
+    - title: §11
+      span:
+        start: 5345
+        end: 6558
+    - title: §12
+      span:
+        start: 6559
+        end: 7490
+    - title: §13
+      span:
+        start: 7491
+        end: 9225
+    - title: §14
+      span:
+        start: 9226
+        end: 10874
+    - title: §15
+      span:
+        start: 10875
+        end: 11149
+    - title: §16
+      span:
+        start: 11150
+        end: 11426
+    - title: §17
+      span:
+        start: 11427
+        end: 11602
+    - title: §18
+      span:
+        start: 11603
+        end: 11606
